@@ -1,10 +1,11 @@
 import Test from "./Test"
 
 function App() {
+  const username = "ax.rut"
   return (
     <>
     <Test/>
-    <h1>react with ax.rut</h1>
+    <h1>react with {username}</h1>
     </>
   )
 }
