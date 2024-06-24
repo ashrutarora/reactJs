@@ -1,10 +1,11 @@
-
+import Test from "./Test"
 
 function App() {
   return (
-    <h1>
-      react & vite with ax.rut
-    </h1>
+    <>
+    <Test/>
+    <h1>react with ax.rut</h1>
+    </>
   )
 }
 
